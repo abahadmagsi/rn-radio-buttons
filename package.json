@@ -1,0 +1,27 @@
+{
+  "name": "rn-radio-buttons",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "keywords": [
+    "react-native",
+    "radio-button",
+    "custom-radio",
+    "radio-group"
+  ],
+  "license": "ISC",
+  "description": "Highly customizable radio buttons for React Native",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-native": "^0.72.8",
+    "react": "^18.3.1",
+    "react-native": "^0.77.0"
+  }
+}
